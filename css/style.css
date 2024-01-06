@@ -1,5 +1,17 @@
+body{
+    background-image: url(./img.japan city.jpg);
+}
+
+
+
+
 h1{
     color:darkorchid;
+    font-style: italic;
     font-size:30px ;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    color:rgb(5, 39, 133);
+    font-weight: 200;
 }
