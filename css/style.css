@@ -1,12 +1,13 @@
 h1{
-    color:darkorchid;
+    color:rgb(5, 160, 237);
     font-style: italic;
     font-size:30px ;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 a{
-    color:rgba(3, 41, 192, 0.456);
+    color:white;
     font-weight: 200;
+    font-size:large;
 }
 body{
     background-image:url('/img/night city.jpg');
