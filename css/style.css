@@ -5,15 +5,15 @@ h1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 a{
-    color:rgb(10, 9, 9);
-    font-weight: 200;
+    color:rgb(91, 25, 166);
     font-size:large;
+    font-weight: 200; 
 }
-body{
-    background-color:paleturquoise;
+.japan{
+    background-image:url('/img/nature.jpg');
     background-repeat:no-repeat;
     background-size:cover;
-}
-div{
-    color:rgb(10, 10, 9);
+    background-position: inherit;
+    color:rgba(232, 12, 185, 0.881);
+    
 }
