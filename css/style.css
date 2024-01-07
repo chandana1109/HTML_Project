@@ -5,15 +5,15 @@ h1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 a{
-    color:white;
+    color:rgb(10, 9, 9);
     font-weight: 200;
     font-size:large;
 }
 body{
-    background-image:url('/img/night city.jpg');
+    background-color:paleturquoise;
     background-repeat:no-repeat;
     background-size:cover;
 }
 div{
-    color:beige;
+    color:rgb(10, 10, 9);
 }
