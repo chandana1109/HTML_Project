@@ -25,12 +25,14 @@ a{
     background-size:cover;
     background-position: inherit; 
  }
-.nav{
+.p{
     color:mediumseagreen;
+    font-size:large;
 }
 .link{
     background-color: darkgrey;
     height:50px;
+    text-decoration: none;
 }
 .country{
     background-color:peru;
@@ -40,5 +42,12 @@ a{
     font-style: oblique;
     font-size:40px ;
     font-weight: bold;
+    background-color:lightcyan
 
+}
+.para{
+
+}
+.img{
+    
 }
