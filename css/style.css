@@ -33,17 +33,19 @@ a{
 .link{
     background-color: paleturquoise;
     height:220px;
-
 }
     .hr:hover{
         color: rgb(252, 248, 248);
         text-decoration: none;
     }
 .hr{
-background-color:rgb(220, 162, 181);
+background-color:rgb(220, 162, 181);;
 }
 .country{
     background-color:peru;
+    text-align: center;
+    margin: 40px;
+    margin-top:1px;
 }
 .head{
     color:blueviolet;
@@ -51,19 +53,20 @@ background-color:rgb(220, 162, 181);
     font-size:40px ;
     font-weight: bold;
     background-color:lightcyan;
-     
-
 }
 .para{
     background-color:palegreen ;
     margin: 10px;
+    margin-top:3px;
+    margin-bottom:2px ;
     border-radius: 5px;
-
 }
 .img{
 width:400px ;
 height: 300px;
 margin:40px;
+margin-top:10px;
+margin-left: 500px;
 border-radius:15% ;
 }
 .nav{
@@ -75,5 +78,5 @@ border-radius:15% ;
     color: aquamarine;
 }
 .bd{
-    background-color:black;
+    background-color:rgb(247, 242, 242);
 }
