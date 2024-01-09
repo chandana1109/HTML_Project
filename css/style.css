@@ -78,9 +78,13 @@ border-radius:15% ;
     color: rgb(165, 225, 205);
 }
 .bd{
-    background-color:rgb(247, 242, 242);
+    background-color:rgb(249, 216, 216);
 }
 /*korea*/
+.south{
+    background-color: rgb(250, 230, 203);
+    background-repeat: no-repeat;
+}
 .k{
     background-color: burlywood;
     color: azure;
@@ -94,5 +98,15 @@ border-radius:15% ;
     color: blueviolet;
     font-size: large;
 }
+.e{
 
+}
+.a{
+
+}
+.seoul{
+    font-size:xx-large;
+    
+
+}
 
