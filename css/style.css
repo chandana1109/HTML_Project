@@ -75,8 +75,24 @@ border-radius:15% ;
     text-align: center;
     margin: 40 px;
     background-color: black;
-    color: aquamarine;
+    color: rgb(165, 225, 205);
 }
 .bd{
     background-color:rgb(247, 242, 242);
 }
+/*korea*/
+.k{
+    background-color: burlywood;
+    color: azure;
+    font-weight: 800;
+    font-size: xx-large;
+}
+.o{
+    
+}
+.r{
+    color: blueviolet;
+    font-size: large;
+}
+
+
