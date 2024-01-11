@@ -60,39 +60,254 @@
     .ch{
         margin-left:20% ;
         margin-right:20% ;
+        background-color: rgb(218, 244, 225);
     }
     .ina{
        font-size:xx-large; 
-       
+       font-style: oblique;
+       text-align: center;
+       background-color:rgb(250, 187, 187) ;
+       border-radius: 10px ;
+       margin-bottom: 2% ;
+       margin-top: 5% ;     
     }
     .china1{
-
+        height: 400px; 
+        width: 600px; 
+        border-radius: 15%;        
     }
     .cina{
-
+        font-size: large;
     }
     .hina{
 
     }
     .wall{
-
+        font-size: xx-large;
+        margin-bottom: 2%;
+        text-decoration: underline rgb(240, 154, 69);
+        background-color: peachpuff;
+        border-radius: 10px ;
     }
     .great{
         height:400px ;
         width: 600px;
+        border-radius:5%  ;
     }
     .great1{
-
+        font-size: large;
     }
     .heaven{
-
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
     }
     .heaven1{
-
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
     }
     .heaven2{
-        
+        font-size: large;
     }
+    .terracotta {
+        font-size: xx-large;
+        margin: 2%;    
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+    }
+    .terracotta1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+    }
+    .terracotta2{
+        font-size: large;
+    }
+    .tombs{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+    }
+    .tombs1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+    }
+   .tombs2{
+        font-size: large;
+   }
+   .forb{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .forb1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .forb2{
+        font-size: large;
+   }
+   .potala{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .potala1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .potala2{
+       font-size: large;
+   }
+   .summer{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .summer1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .summer2{
+        font-size: large;
+   }
+   .classical{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .classical1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .classical2{
+        font-size: large;
+   }
+   .lake{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .lake1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .lake2{
+        font-size: large;
+   }
+   .yangshuo{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .yangshuo1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .yangshuo2{
+        font-size: large;
+   }
+   .lijiang{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .lijiang1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .lijiang2{
+        font-size: large;
+   }
+  .yangtze{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .yangtze1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .yangtze2{
+        font-size: large;
+   }
+   .zhangji{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .zhangji1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .zhangji2{
+        font-size: large;
+   }
+   .disney{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .disney1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .disney2{
+        font-size: large;
+
+   }
+   .haichang{
+        font-size: xx-large;
+        margin: 2%;
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;
+   }
+   .haichang1{
+        height: 400px;
+        width: 600px;
+        border-radius:5% ;
+   }
+   .haichang2{
+        font-size: large;  
+   }
 
     /*japan*/
 .jpn{
