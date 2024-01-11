@@ -1,6 +1,6 @@
 /*menu*/
 .bd{
-    background-color:rgb(249, 216, 216);
+    background-color:rgb(247, 194, 194);
     margin-left:10% ;
     margin-right:10% ;
 }
@@ -60,7 +60,7 @@
     .ch{
         margin-left:20% ;
         margin-right:20% ;
-        background-color: rgb(218, 244, 225);
+        background-color: rgb(207, 249, 218);
     }
     .ina{
        font-size:xx-large; 
@@ -307,6 +307,302 @@
    }
    .haichang2{
         font-size: large;  
+   }
+   /*india*/
+   .ndia{
+    margin-left:20% ;
+        margin-right:20% ;
+        background-color: rgb(207, 249, 218);
+   }
+   .india{  
+    font-size:xx-large; 
+       font-style: oblique;
+       text-align: center;
+       background-color:rgb(250, 187, 187) ;
+       border-radius: 10px ;
+       margin-bottom: 2% ;
+       margin-top: 5% ; 
+   }
+   .india1{
+    height: 400px; 
+        width: 600px; 
+        border-radius: 15%;
+   }
+   .india2{
+    font-size: large;
+   }
+   .idia{
+
+   }
+   .laksha{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;    
+   }
+   .laksha1{
+    height: 400px; 
+        width: 600px; 
+        border-radius: 15%;
+   }
+   .laksha2{
+    font-size: large;
+   }
+   .leh{
+    font-size: xx-large;
+        margin: 2%;    
+        text-decoration: underline;
+        background-color: peachpuff;
+        border-radius: 10px ;   
+   }
+   .leh1{
+    height: 400px; 
+        width: 600px; 
+        border-radius: 15%;
+   }
+   .leh2{
+    font-size: large;
+   }
+   .gokarna{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;   
+   }
+   .gokarna1{
+    height: 400px; 
+        width: 600px; 
+        border-radius: 15%;
+   }
+   .gokarna2{
+    font-size: large;
+   }
+   .agra{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .agra1{
+    height: 400px; 
+        width: 600px; 
+        border-radius: 15%;
+   }
+   .agra2{
+    font-size: large;
+   }
+   .lotus{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .lotus1{
+    height: 400px; 
+        width: 600px; 
+        border-radius: 15%;
+   }
+   .lotus2{
+    font-size: large;
+   }
+   .havelock{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .havelock1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .havelock2{
+    font-size: large;
+   }
+   .pondi{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .pondi1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .pondi2{
+    font-size: large;
+   }
+   .goa{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .goa1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .goa2{
+    font-size: large;
+   }
+   .manali{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .manali1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .manali2{
+    font-size: large;
+   }
+   .alleppey{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .alleppey1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .alleppey2{
+    font-size: large;
+   }
+   .varkala{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .varkala1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .varkala2{
+    font-size: large;
+   }
+   .amritsar{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .amritsar1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .amritsar2{
+    font-size: large;
+   }
+   .ooty{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .ooty1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .ooty2{
+    font-size: large;
+   }
+   .coorg{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .coorg1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .coorg2{
+    font-size: large;
+   }
+   .ujjain{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .ujjain1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .ujjain2{
+    font-size: large;
+   }
+   .mountabu{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .mountabu1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .mountabu2{
+    font-size: large;
+   }
+   .chikmag{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .chikmag1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .chikmag2{
+    font-size: large;
+   }
+   .auli{
+    font-size: xx-large;
+    margin: 2%;    
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+   }
+   .auli1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;
+   }
+   .auli2{
+    font-size: large;
    }
 
     /*japan*/
