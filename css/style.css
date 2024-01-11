@@ -56,6 +56,45 @@
     .hr{
     background-color:rgb(220, 162, 181);;
     }
+    /*china*/
+    .ch{
+        margin-left:20% ;
+        margin-right:20% ;
+    }
+    .ina{
+       font-size:xx-large; 
+       
+    }
+    .china1{
+
+    }
+    .cina{
+
+    }
+    .hina{
+
+    }
+    .wall{
+
+    }
+    .great{
+        height:400px ;
+        width: 600px;
+    }
+    .great1{
+
+    }
+    .heaven{
+
+    }
+    .heaven1{
+
+    }
+    .heaven2{
+        
+    }
+
+    /*japan*/
 .jpn{
     background-color: black;
     border-color: whitesmoke;
