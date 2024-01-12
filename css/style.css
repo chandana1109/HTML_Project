@@ -1,8 +1,8 @@
 /*menu*/
 .bd{
     background-color:rgb(247, 194, 194);
-    margin-left:10% ;
-    margin-right:10% ;
+    margin-left:20% ;
+    margin-right:20% ;
 }
 .head{
     color:blueviolet;
@@ -31,7 +31,7 @@
     height: 300px;
     margin:40px;
     margin-top:10px;
-    margin-left: 500px;
+    margin-left: 250px;
     border-radius:15% ;
     }
     .country{
@@ -605,34 +605,6 @@
     font-size: large;
    }
 
-    /*japan*/
-.jpn{
-    background-color: black;
-    border-color: whitesmoke;
-    border-radius:10px;
-    color: beige;
-    margin: 40px;
-    height: 50px;
-    text-align: center;
-}
-h2{
-    color:rgb(5, 160, 237);
-    font-style: italic;
-    font-size:30px ;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:blanchedalmond;
-}
-a{
-    color:rgb(91, 25, 166);
-    font-size:large;
-    font-weight: 200; 
-}
-.japan{
-    background-color:rgb(239, 193, 175);
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position: inherit; 
- }
 /*korea*/
 .south{
     background-color: rgb(250, 230, 203);
