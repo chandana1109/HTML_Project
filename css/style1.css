@@ -235,32 +235,564 @@
     font-size: large;
 }
 /*japan*/
-.jpn{
-    background-color: black;
-    border-color: whitesmoke;
-    border-radius:10px;
-    color: beige;
-    margin: 40px;
-    height: 50px;
-    text-align: center;
-}
-h2{
-    color:rgb(5, 160, 237);
-    font-style: italic;
-    font-size:30px ;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:blanchedalmond;
-}
-a{
-    color:rgb(91, 25, 166);
-    font-size:large;
-    font-weight: 200; 
-}
-.japan{
-    background-color:rgb(239, 193, 175);
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position: inherit; 
+.jpan{
+    margin-left:20% ;
+    margin-right:20% ;
+    background-color: rgb(207, 249, 218);
  }
+ .japan{
+    font-size:xx-large; 
+    font-style: oblique;
+    text-align: center;
+    background-color:rgb(250, 187, 187) ;
+    border-radius: 10px ;
+    margin-bottom: 2% ;
+    margin-top: 5% ; 
+ }
+ .japan1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;  
+ }
+ .japan2{
+    font-size: large;
+}
+ .jap{
+
+ }
+ .fukuoka{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+ }
+ .fukuoka1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+ }
+ .fukuoka2{
+    font-size: large;
+ }
+ .ishigaki{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+ }
+ .ishigaki1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+ }
+ .ishigaki2{
+    font-size: large;
+ }
+ .kamakura{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+ }
+ .kamakura1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+ }
+ .kamakura2{
+    font-size: large;
+ }
+.kanazawa{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.kanazawa1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.kanazawa2{
+    font-size: large;
+}
+.kyoto{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.kyoto1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.kyoto2{
+    font-size: large;
+}
+.fuji{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.fuji1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.fuji2{
+    font-size: large;
+}
+.nagasaki{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;   
+}
+.nagasaki1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.nagasaki2{
+    font-size: large;
+}
+.naoshima{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;   
+}
+.naoshima1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ; 
+}
+.naoshima2{
+    font-size: large;
+}
+.nara{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;     
+}
+.nara1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ; 
+}
+.nara2{
+    font-size: large;
+}
+.nikko{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;    
+}
+.nikko1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;   
+}
+.nikko2{
+    font-size: large;  
+}
+.osaka{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;    
+}
+.osaka1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;   
+}
+.osaka2{
+    font-size: large;   
+}
+.sapporo{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;     
+}
+.sapporo1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;    
+}
+.sapporo2{
+    font-size: large;   
+}
+.shikoku{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;        
+}
+.shikoku1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ; 
+}
+.shikoku2{
+    font-size: large; 
+}
+.shira{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;        
+}
+.shira1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;  
+}
+.shira2{
+    font-size: large;   
+}
+.tohoku{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.tohoku1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;  
+}
+.tohoku2{
+    font-size: large;   
+}
+.tokyo{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.tokyo1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;   
+}
+.tokyo2{
+    font-size: large;   
+}
+.uenopark{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+}
+.uenopark1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;     
+}
+.uenopark2{
+ font-size: large;
+}   
+.yakushima{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.yakushima1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;     
+}
+.yakushima2{
+    font-size: large; 
+}
+.yokohama{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+}
+.yokohama1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;  
+}
+.yokohama2{
+    font-size: large;  
+}
 /*malaysia*/
-/*philippines*/
+.mala{
+    margin-left:20% ;
+    margin-right:20% ;
+    background-color: rgb(207, 249, 218); 
+}
+.malaysia{
+    font-size:xx-large; 
+    font-style: oblique;
+    text-align: center;
+    background-color:rgb(250, 187, 187) ;
+    border-radius: 10px ;
+    margin-bottom: 2% ;
+    margin-top: 5% ;  
+}
+.malaysia1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;  
+}
+.malaysia2{
+    font-size: large;
+}
+.lisa{
+
+}
+.batucaves{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.batucaves1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.batucaves2{
+    font-size: large;
+}
+.batupahat{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.batupahat1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.batupahat2{
+    font-size: large;
+}
+.cameron{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.cameron1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.cameron2{
+    font-size: large;
+}
+.ipoh{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.ipoh1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.ipoh2{
+    font-size: large;
+}
+.kinabalu{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.kinabalu1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.kinabalu2{
+    font-size: large;
+}
+.lumpur{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.lumpur1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.lumpur2{
+    font-size: large;
+}
+.kuantan{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.kuantan1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.kuantan2{
+    font-size: large; 
+}
+.langkawi{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.langkawi1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.langkawi2{
+    font-size: large; 
+}
+.perhentian{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.perhentian1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;  
+}
+.perhentian2{
+    font-size: large; 
+}
+.perlis{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.perlis1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.perlis2{
+    font-size: large; 
+}
+.petal{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+}
+.petal1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.petal2{
+    font-size: large;  
+}
+.subang{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+}
+.subang1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.subang2{
+    font-size: large;    
+}
+.taiping{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ; 
+}
+.taiping1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.taiping2{
+    font-size: large;    
+}
+.teluk{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;    
+}
+.teluk1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.teluk2{
+    font-size: large;  
+}
+.tioman{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;  
+}
+.tioman1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.tioman2{
+    font-size: large; 
+}
