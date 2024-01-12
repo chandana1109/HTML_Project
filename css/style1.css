@@ -1,4 +1,239 @@
 /*indonesia*/
+.indon{
+    margin-left:20% ;
+    margin-right:20% ;
+    background-color: rgb(207, 249, 218); 
+}
+.indonesia{
+    font-size:xx-large; 
+       font-style: oblique;
+       text-align: center;
+       background-color:rgb(250, 187, 187) ;
+       border-radius: 10px ;
+       margin-bottom: 2% ;
+       margin-top: 5% ; 
+}
+.indonesia1{
+    height: 400px; 
+    width: 600px; 
+    border-radius: 15%;  
+}
+.indonesia2{
+    font-size: large;
+}
+.ndone{
+
+}
+.gili{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.gili1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.gili2{
+    font-size: large;
+}
+.kelimutu{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.kelimutu1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.kelimutu2{
+    font-size: large;
+}
+.toba{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.toba1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.toba2{
+    font-size: large;
+}
+.komodo{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.komodo1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.komodo2{
+    font-size: large;
+}
+.bromo{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.bromo1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.bromo2{
+    font-size: large;
+}
+.plateau{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.plateau1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.plateau2{
+    font-size: large;
+}
+.torajaland{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.torajaland1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.torajaland2{
+    font-size: large;
+}
+.borobudur{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.borobudur1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.borobudur2{
+    font-size: large;
+}
+.derawan{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.derawan1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.derawan2{
+    font-size: large;
+}
+.jakarta{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.jakarta1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.jakarta2{
+    font-size: large;
+}
+.nusa{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.nusa1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.nusa2{
+    font-size: large;
+}
+.bali{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.bali1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.bali2{
+    font-size: large;
+}
+.rebo{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.rebo1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.rebo2{
+    font-size: large;
+}
+.yogya{
+    font-size: xx-large;
+    margin: 2%;
+    text-decoration: underline;
+    background-color: peachpuff;
+    border-radius: 10px ;
+}
+.yogya1{
+    height: 400px;
+    width: 600px;
+    border-radius:5% ;
+}
+.yogya2{
+    font-size: large;
+}
 /*japan*/
 .jpn{
     background-color: black;
