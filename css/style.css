@@ -1,60 +1,78 @@
 /*menu*/
 .bd{
-    background-color:rgb(247, 194, 194);
+    background-color: rgb(230, 243, 243);
     margin-left:20% ;
     margin-right:20% ;
 }
 .head{
-    color:blueviolet;
+    color:black;
     font-style: oblique;
+    text-align: center;
+    margin-top: 5px;
+    border-top:5px solid rgb(193, 42, 42);
+    border-bottom: 2.5px solid rgb(238, 41, 41);
     font-size:40px ;
     font-weight: bold;
-    background-color:lightcyan;
+    background-color:rgb(247, 172, 97);
 }
 .nav{
     font-style: italic;
-    font-size:x-large;
+    font-size:60px;
+    font-weight: 500;
     text-align: center;
-    margin: 40 px;
+    margin-top: 5px ;
+    margin-bottom:5px ;
     background-color: black;
     color: rgb(165, 225, 205);
 }
 .para{
-    background-color:palegreen ;
-    margin: 10px;
+    font-size:large ;
+    font-weight: 600;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    margin-right:25px;
     margin-top:3px;
-    margin-bottom:2px ;
+    margin-bottom:15px ;
     border-radius: 5px;
 }
 .img{
-    width:400px ;
-    height: 300px;
-    margin:40px;
+    width:600px ;
+    height: 400px;
     margin-top:10px;
-    margin-left: 250px;
+    margin-bottom: 15px;
+    margin-left: 150px;
     border-radius:15% ;
+    
     }
-    .country{
-        background-color:peru;
+.country{
+        background-color:rgb(226, 162, 77);    
+        font-family:sans-serif;
         text-align: center;
-        margin: 40px;
-        margin-top:1px;
-    }
-    .p{
-        color:darkgreen;
-        font-size:large;
-        background-color:pink;
+        font-size:x-large;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom:5px;
+        border-top:5px solid black;
+        border-bottom:5px solid black ;
     }
     .link{
         background-color: paleturquoise;
-        height:220px;
+        height:250px;
+        font-weight: 500;
+        font-size: large;
+        border-radius:50px ;
+        border-top:5px black solid  ;
+        border-bottom:5px black solid ;
+        border-left:5px black solid  ;
+        border-right:5px black solid  ;
     }
         .hr:hover{
-            color: rgb(252, 248, 248);
+            color: rgb(225, 12, 12);
             text-decoration: none;
         }
     .hr{
-    background-color:rgb(220, 162, 181);;
+    background-color:rgb(240, 142, 168);
+
     }
     
     
