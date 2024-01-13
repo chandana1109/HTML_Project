@@ -1,8 +1,8 @@
 /*menu*/
 .bd{
     background-color: rgb(230, 243, 243);
-    margin-left:20% ;
-    margin-right:20% ;
+    max-width: 960px;
+    margin:auto;
 }
 .head{
     color:black;
@@ -34,6 +34,7 @@
     margin-top:3px;
     margin-bottom:15px ;
     border-radius: 5px;
+    text-align: justify;
 }
 .img{
     width:600px ;
@@ -42,8 +43,7 @@
     margin-bottom: 15px;
     margin-left: 150px;
     border-radius:15% ;
-    
-    }
+}   
 .country{
         background-color:rgb(226, 162, 77);    
         font-family:sans-serif;
@@ -57,7 +57,8 @@
     }
     .link{
         background-color: paleturquoise;
-        height:250px;
+        height:210px;
+        width:150px;
         font-weight: 500;
         font-size: large;
         border-radius:50px ;
@@ -65,14 +66,36 @@
         border-bottom:5px black solid ;
         border-left:5px black solid  ;
         border-right:5px black solid  ;
+        text-align:center;
+        margin-top: 10px;
+        margin-right: 50px;
+    }
+    .hr{
+        text-decoration: none;
     }
         .hr:hover{
             color: rgb(225, 12, 12);
-            text-decoration: none;
+            text-decoration: underline;
+            font-size: larger;
         }
-    .hr{
-    background-color:rgb(240, 142, 168);
-
-    }
+   .line{
     
-    
+   }
+   .container{
+    position:relative;
+    max-width:300;
+    height: 300px;
+    margin-left:220px ;
+    box-shadow: 0 0 5px 2px #130c0c;
+    border-radius: 8px;
+    overflow: hidden;
+   }
+   .slide{
+    display: flex;
+   }
+   .images{
+    width: 150px;
+    height: 150px;
+    display: block;
+   }
+   

@@ -1,8 +1,8 @@
 /*  india indonesia japan malaysia philippines singapore south korea  thailand vietnam*/
 /*body*/
 .ijm{
-    margin-left:20% ;
-    margin-right:20% ;
+    max-width: 960px;
+    margin:auto ;
     background-color: rgb(207, 249, 218); 
 }
 /*nav*/
@@ -29,7 +29,7 @@
 }
 /*ordered list*/
 .list{
-
+    
 }
 /*headings*/
 .heading{
@@ -51,4 +51,5 @@
 /*para*/
 .para{
     font-size: large;
+    text-align: justify;
 }
