@@ -42,7 +42,9 @@
     margin-top:10px;
     margin-bottom: 15px;
     margin-left: 150px;
-    border-radius:15% ;
+    box-shadow: 0 0 5px 5px #130c0c;
+    border-radius: 25px;
+    overflow: hidden;
 }   
 .country{
         background-color:rgb(226, 162, 77);    
