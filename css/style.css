@@ -83,21 +83,10 @@
    .line{
     
    }
-   .container{
-    position:relative;
-    max-width:300;
+   .footer{
+    background-color: rgb(10, 8, 8); 
     height: 300px;
-    margin-left:220px ;
-    box-shadow: 0 0 5px 2px #130c0c;
-    border-radius: 8px;
-    overflow: hidden;
-   }
-   .slide{
-    display: flex;
-   }
-   .images{
-    width: 150px;
-    height: 150px;
-    display: block;
+    color: antiquewhite;
+
    }
    

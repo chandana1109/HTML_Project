@@ -22,10 +22,19 @@
     height: 400px; 
     width: 600px; 
     border-radius: 15%;  
+    box-shadow: 0 0 5px 5px #130c0c;
 }
-/*font*/
+/*para*/
 .ijm3{
     font-size: large;
+    font-weight: 600;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    margin-right:25px;
+    margin-top:3px;
+    margin-bottom:15px ;
+    border-radius: 5px;
+    text-align: justify;
 }
 /*ordered list*/
 .list{
@@ -47,9 +56,17 @@
     height: 400px;
     width: 600px;
     border-radius:5% ;
+    box-shadow: 0 0 5px 5px #130c0c;
 }
 /*para*/
 .para{
     font-size: large;
     text-align: justify;
+    font-weight: 600;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    margin-right:25px;
+    margin-top:3px;
+    margin-bottom:15px ;
+    border-radius: 5px;
 }
