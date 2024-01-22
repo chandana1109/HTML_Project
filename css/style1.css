@@ -2,8 +2,13 @@
 /*body*/
 .ijm{
     max-width: 960px;
-    margin:auto ;
-    background-color: rgb(207, 249, 218); 
+    margin: auto;
+    margin-top:25px ;
+    margin-bottom:25px ;
+    background-color: rgb(194, 193, 203); 
+    border-top: 3px solid black;
+    border-bottom:3px solid black ;
+
 }
 /*nav*/
 .ijm1{
@@ -35,6 +40,12 @@
     margin-bottom:15px ;
     border-radius: 5px;
     text-align: justify;
+}
+.ijm3 a:hover{
+    font-size: x-large;
+    background-color: black;
+    color: azure;
+    border-radius:5px ;
 }
 /*ordered list*/
 .list{
