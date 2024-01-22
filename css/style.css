@@ -1,6 +1,6 @@
 /*menu*/
 .bd{
-    background-color: rgb(230, 243, 243);
+    background-color:lavender;
     margin-left: 40px;
     margin-top:25px ;
     margin-right: 400px;
@@ -60,13 +60,12 @@
 .country{
         background-color:rgb(226, 162, 77);    
         font-family:sans-serif;
-        text-align: center;
         font-size:x-large;
         margin-left: 10px;
         margin-top: 10px;
         margin-bottom:5px;
-        border-top: 3px solid black;
-        border-bottom: 3px solid black ;
+        border-top: 2px solid black;
+        border-bottom: 2px solid black ;
     }
     .link{
         background-color: paleturquoise;
@@ -94,6 +93,7 @@
    #para{
     font-size:x-large;
     font-style: oblique;
+    color: rgb(5, 61, 1);
    }
    
    .travel{
