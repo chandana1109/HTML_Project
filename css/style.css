@@ -1,10 +1,7 @@
 /*menu*/
 .bd{
-    background-color:lavender;
-    margin-left: 40px;
-    margin-top:25px ;
-    margin-right: 400px;
-    margin-bottom:25px ;
+
+    background-color:lightcyan;
     border-top: 3px solid black;
     border-bottom:3px solid black ;
 }
@@ -57,31 +54,27 @@
     border-radius: 25px;
     overflow: hidden;
 }   
+
 .country{
-        background-color:rgb(226, 162, 77);    
+        background: coral;
         font-family:sans-serif;
-        font-size:x-large;
-        margin-left: 10px;
-        margin-top: 10px;
-        margin-bottom:5px;
-        border-top: 2px solid black;
-        border-bottom: 2px solid black ;
+        font-size: 30px;
+        width: 1400PX ;
     }
     .link{
         background-color: paleturquoise;
         height:210px;
-        width:200px;
+        width: 400px;
         font-weight: 500;
         font-size: large;
         border-radius:50px ;
-        box-shadow: 0 0 10px 10px black;
+        margin-left: 500px;
         text-align:center;
         margin-top: 10px;
         margin-right: 50px;
     }
     .hr{
         text-decoration: none;
-    
     }
         .hr:hover{
             color: rgb(225, 12, 12);
@@ -95,12 +88,12 @@
     font-style: oblique;
     color: rgb(5, 61, 1);
    }
-   
    .travel{
     background-color: rgb(161, 244, 216);
-    height: 190px;
-    max-width: 500px;
+    width:  400px;
+    margin-left: 500px;
     box-shadow: 0 0 5px 5px cyan;
+    text-align:center;
    }
    li{
     display:block;
@@ -116,15 +109,12 @@
     text-decoration: underline;
     transition: 0.3s;
    }
-
    .footer{
     background-color: rgb(10, 8, 8); 
-    height: 200px;
+    height: 150px;
     color: antiquewhite;
     margin-top: 30px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    
-
    }
    
