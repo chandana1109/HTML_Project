@@ -57,10 +57,13 @@
     padding: 10px;
 } 
 .country{
-        background: coral;
-        font-family:sans-serif;
+        background: rgb(232, 155, 127);
+        font-family:initial;
         font-size: 30px;
         text-align: center;
+        letter-spacing: 1px;
+        border-radius: 100px;
+        
     }
     .link{
         background-color: rgb(253, 201, 234);
@@ -68,7 +71,9 @@
         width: 400px;
         font-weight: 500;
         font-size: large;
-        border-radius:50px ;
+        border-top-right-radius:50px ;
+        border-top-left-radius:50px ;
+        border-bottom-right-radius:50px ;
         text-align:center;
         margin: auto;
         box-shadow: 5px 5px  rgb(235, 141, 199);
@@ -86,13 +91,22 @@
    #para{
     font-size:x-large;
     font-style: oblique;
-    color: rgb(5, 61, 1);
+    font-weight: 800;
+    color: rgb(2, 15, 1);
+    background-color: rgb(225, 225, 54);
+    text-align: center;
+    letter-spacing: 1px;
+    height:60px;
+    border-radius: 100px;
    }
    .travel{
     background-color: rgb(241, 189, 232);
     width:  400px;
     margin: auto;
-    border-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+
     box-shadow: 5px 5px rgb(233, 119, 209);
     text-align:center;
     font-size: large;
@@ -114,6 +128,7 @@
     height: 150px;
     color: antiquewhite;
     margin-top: 30px;
+    margin-bottom: 50px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
    }
