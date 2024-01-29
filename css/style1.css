@@ -81,3 +81,21 @@
     margin-bottom:15px ;
     border-radius: 5px;
 }
+/*page link*/
+#a{
+    color:green ;
+    font-size: large;
+    margin-left: 50px;
+}
+#a:hover{
+    color: red;
+    font-size:x-large ;
+    text-decoration: none;
+    font-style: oblique;
+}
+#b{
+    color:green ;
+    font-size: large;
+    float: right;
+    margin-right: 50px;
+}
