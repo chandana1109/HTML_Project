@@ -1,7 +1,7 @@
 /*menu*/
 .bd{
 
-    background:rgb(235, 231, 231);
+    background:rgb(202, 194, 194);
     border-top: 3px solid black;
     border-bottom:3px solid black;
     border-left: 2px solid  black;
@@ -66,7 +66,7 @@
         
     }
     .link{
-        background-color: rgb(253, 201, 234);
+        background-color: rgb(249, 184, 225);
         height:210px;
         width: 400px;
         font-weight: 500;
@@ -76,7 +76,7 @@
         border-bottom-right-radius:50px ;
         text-align:center;
         margin: auto;
-        box-shadow: 5px 5px  rgb(235, 141, 199);
+        box-shadow: 10px 10px  rgb(232, 122, 190);
     }
     .hr{
         text-decoration: none;
@@ -100,14 +100,13 @@
     border-radius: 100px;
    }
    .travel{
-    background-color: rgb(241, 189, 232);
+    background-color: rgb(245, 184, 235);
     width:  400px;
     margin: auto;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     border-bottom-left-radius: 50px;
-
-    box-shadow: 5px 5px rgb(233, 119, 209);
+    box-shadow: 10px 10px rgb(243, 132, 200);
     text-align:center;
     font-size: large;
    }
