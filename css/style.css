@@ -1,4 +1,4 @@
-/*Index*/
+/**/
 .bd{
 
     background:rgb(202, 194, 194);
@@ -30,6 +30,10 @@
     background-color: black;
     color: rgb(165, 225, 205);
 }
+.para::first-letter{
+    color: blueviolet;
+    font-size: 30px;
+}
 .para{
     font-size:large ;
     font-weight: 600;
@@ -56,6 +60,9 @@
     margin-left: 220px;
     padding: 10px;
 } 
+.img:hover{
+    opacity: 0.89;
+}
 .country{
         background: rgb(232, 155, 127);
         font-family:initial;
@@ -109,7 +116,7 @@
     box-shadow: 10px 10px rgb(243, 132, 200);
     text-align:center;
     font-size: large;
-    float: right;
+   
    }
    .lin{
     color: rgb(24, 27, 245);
