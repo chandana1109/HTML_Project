@@ -10,6 +10,10 @@
     border-bottom:3px solid black ;
 
 }
+.ijm::first-letter{
+    color: blueviolet;
+    font-size: 30px;
+}
 /*nav*/
 .ijm1{
     font-size:xx-large; 
@@ -21,6 +25,10 @@
     margin-top: 5% ;    
     border-top:5px solid black ;
     border-bottom:2.5px solid black ;
+}
+.ijm1::first-letter{
+    color: blueviolet;
+    font-size: 30px;
 }
 /*image*/
 .ijm2{
@@ -40,6 +48,10 @@
     margin-bottom:15px ;
     border-radius: 5px;
     text-align: justify;
+}
+.ijm3::first-letter{
+    color: blueviolet;
+    font-size: 30px;
 }
 .ijm3 a:hover{
     font-size: x-large;
@@ -80,6 +92,10 @@
     margin-top:3px;
     margin-bottom:15px ;
     border-radius: 5px;
+}
+.para::first-letter{
+    color: blueviolet;
+    font-size: 30px;
 }
 /*page link*/
 #a{
